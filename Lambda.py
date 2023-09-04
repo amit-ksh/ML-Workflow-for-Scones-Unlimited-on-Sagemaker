@@ -70,7 +70,7 @@ from sagemaker.serializers import IdentitySerializer
 from sagemaker.predictor import Predictor
 
 # Fill this in with the name of your deployed model
-ENDPOINT = 'image-classification-2023-08-28-05-25-41-368'  ## TODO: fill in
+ENDPOINT = 'image-classification-2023-09-04-02-25-17-599'  ## TODO: fill in
 
 def lambda_handler(event, context):
 
